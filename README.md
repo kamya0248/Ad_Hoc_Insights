@@ -1,11 +1,3 @@
-YES this is exactly the right move — get GitHub done first, then food, then recording. That’s how you break the mental block.
-
-I’ll give you a **clean, professional README** for your **Ad-Hoc Insights Project** in the same style as your other project but shorter (since this is SQL + BI storytelling, not full dashboard).
-
-You can copy-paste this directly 👇
-
----
-
 # 📊 Ad-Hoc Business Insights – SQL + Power BI Project
 
 ## 📌 Project Overview
