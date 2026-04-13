@@ -78,7 +78,7 @@ The project answers the following types of questions:
 ```
 📁 Ad-Hoc-Business-Insights
  ┣ 📁 SQL Queries
- ┣ 📁 Power BI Screenshots
+ ┣ 📁 Power BI Visuals
  ┣ 📁 Presentation (PDF)
  ┗ 📄 README.md
 ```
